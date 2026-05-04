@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "어버이날 축하 💐",
     description: "사랑하고 감사합니다 ❤️",
-    images: ["/og-image.jpg"],
+    images: ["photos/og-image.jpg"],
   },
 
   icons: {
